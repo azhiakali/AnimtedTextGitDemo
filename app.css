@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(53, 0, 78);
+}
+
+h1 {
+    font-size: 15rem;
+    font-family: Monsterrat;
+}
+
+.letter {
+    transition: color 1000ms;
+}
